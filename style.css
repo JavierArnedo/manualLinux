@@ -1,0 +1,22 @@
+.comando {
+    background-color: black;
+    color: white;
+    border: 3px solid gray;
+    width: 50%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.parametros {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    background-color: rgb(50, 50, 50);
+    margin-bottom: 1vh;
+    padding-left: 1vw;
+}
+
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
